@@ -11,6 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "date-and-time": "^3.0.3",
+    "dateformat": "^5.0.3",
     "dotenv": "^16.3.1",
     "mongoose": "^7.5.3",
     "node-telegram-bot-api": "^0.63.0",
